@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Nini Linares! 👋
 
-<!--
-**EnithLinares/EnithLinares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate storyteller with a knack for connecting with the people in my community, and never ending curiosity about the world of data and how code can help us make our communities more inclusive.
 
-Here are some ideas to get you started:
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Diploma in Software Engineering with BrainStation.
+- 📝 I write about community journalism and the ways we can make our cities vibrant spaces at local-voices.ca
+- 
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React for dynamic front-end experiences.
+  - Styling using Sass to create modern and responsive user interfaces.
+  - Diving into databases and working in my capstone for the program.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed our class Web APIs Hackathon - Contributed to the making of 'Cards Against Developers' game where you pick get a dad joke and search for the best gif to express your grift, and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/enithevans/)
+- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
