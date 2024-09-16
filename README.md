@@ -27,6 +27,5 @@ I am a passionate storyteller with a knack for connecting with the people in my 
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/enithevans/)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
