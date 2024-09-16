@@ -2,7 +2,6 @@
 
 I am a passionate storyteller with a knack for connecting with the people in my community, and never ending curiosity about the world of data and how code can help us make our communities more inclusive.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -11,7 +10,7 @@ I am a passionate storyteller with a knack for connecting with the people in my 
 - 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
