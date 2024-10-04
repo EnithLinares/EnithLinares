@@ -10,7 +10,7 @@ I am a passionate storyteller with a knack for connecting with the people in my 
 - 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,figma,express,git,mysql,postman,sass,vite,vscode,windows)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
