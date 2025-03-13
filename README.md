@@ -5,7 +5,7 @@ I am a passionate storyteller with a knack for connecting with the people in my 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Diploma in Software Engineering with BrainStation.
+- 🔭 I'm a Full-Stack Software Developer, and previous BrainStation Teaching Assist for the Software Engineering program.  
 - 📝 I write about community journalism and the ways we can make our cities vibrant spaces at local-voices.ca
 - 
 
