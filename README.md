@@ -1,34 +1,31 @@
-# Hi, I'm Nini Linares! 👋
-
-I am a passionate storyteller with a knack for connecting with the people in my community. I am also never-endingly curious about the world of data and how code can help us make user-centric solutions. I am passionate about user design and accessibility. 
-
-
-## 🚀 About Me
-
-- 🔭 I'm a Full-Stack Software Developer, and previous BrainStation Teaching Assist for the Software Engineering program.  
-- 📝 I write about community journalism and the ways we can make our cities vibrant spaces at local-voices.ca
-- 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,figma,express,git,mysql,postman,sass,vite,vscode,windows)](https://skillicons.dev)
-
-## 🌱 Currently Exploring
-
-- 🚀 Refining my full stack web development skills, one project at a time.
-  - Exploring the ins and outs of UX/UI for dynamic front-end experiences.
-  - Styling using Sass to create modern and responsive user interfaces and learning how to use Tailwind.
-  - Learning about better construct queries and understanding principles of non-relational databases.
-
- ## 🏆 Achievements
-
-- 🌟 Completed our class Web APIs Hackathon - Contributed to the making of 'Cards the  Against Developers' game where you a dad joke and search for the best gif to express your grift, and celebrated the spirit of collaboration.
-- Created a cute and aesthetically pleasing tracker as part of the pairs hackathon called 'Green Thumbs.' We had 6 hours to come up with a concept and presentation.
-- Participated in the industry project in collaboration with Bell Canada, creating an app to advertise the Bell for Better initiatives. I received great feedback on the UI I designed and implemented in collaboration with my team.
-- Made a full stack application called Date For 1, using a custom relational database, set up my custom API and built the interface with React.js and other libraries. 
+<h1 align="center">Hi 👋, I'm Nini Linares</h1>
+<h3 align="center">A Full-Stack Software Engineer in Ontario, Canada</h3>
 
 
-## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/enithlinares/)
+- 🔭 I’m currently working on **My portfolio and improving my capstone 'Date For 1'**
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+- 🌱 I’m currently learning **TypeScript and exploring Firebase**
+
+- 🤝 I’m looking for help with **Open source projects, specially related to web accessibility**
+
+- 💬 Ask me about **React, JavaScript and Sass**
+
+- 📫 How to reach me **enithalinares@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/enithlinares/](https://www.linkedin.com/in/enithlinares/)
+
+- ⚡ Fun fact **I have a background on Broadcast Journalism, Digital Marketing and People Management**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/enithlinares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enithlinares" height="30" width="40" /></a>
+<a href="https://codesandbox.com/enithlinares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="enithlinares" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enithlinares&show_icons=true&theme=cobalt&text_color=ffffff&bg_color=1132d4&locale=en&layout=compact" alt="enithlinares" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enithlinares&show_icons=true&locale=en" alt="enithlinares" /></p>
